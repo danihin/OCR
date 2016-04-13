@@ -2,7 +2,7 @@ SYNTAX:
 {DATEINAME} {ENTHALTENES_SYMBOL}
 
 
-GROßBUCHSTABEN
+GROÃŸBUCHSTABEN
 ---START---
 grossesH.jpg H
 grossesR.jpg R
@@ -10,4 +10,4 @@ grossesT.jpg T
 grossesW.jpg W
 ---ENDE---
 
-HINWEIS: Zwischen einer START- und ENDE-Markierung ist Platz für Kommentare.
+HINWEIS: Zwischen einer START- und ENDE-Markierung ist Platz fÃ¼r Kommentare.
