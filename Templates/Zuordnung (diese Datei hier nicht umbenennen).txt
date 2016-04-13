@@ -1,0 +1,13 @@
+SYNTAX:
+{DATEINAME} {ENTHALTENES_SYMBOL}
+
+
+GROßBUCHSTABEN
+---START---
+grossesH.jpg H
+grossesR.jpg R
+grossesT.jpg T
+grossesW.jpg W
+---ENDE---
+
+HINWEIS: Zwischen einer START- und ENDE-Markierung ist Platz für Kommentare.
